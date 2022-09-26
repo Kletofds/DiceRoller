@@ -1,1 +1,5 @@
-print("Hello World!")
+roller = input("How Many Dice Would You Like To Roll?")
+roll_option = input("Would You like to add, multiply, or leave the individual numbers?")
+if roll_option = ("add") or ("Add") or ("ADD"):
+  print("1+1")
+  Print("is equal to 2")
