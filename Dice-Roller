@@ -1,1 +1,7 @@
-print("Hello World!")
+import Random
+
+dice_num = input("How many dice would you like to roll?")
+dice_action = input("What would you like to do with the dice? Multiply, add, or leave as individual numbers?")
+
+if dice_action = multiply:
+  
